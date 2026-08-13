@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\bin\Debug\net10.0\ExemploFundamentos.Common.deps.json
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\bin\Debug\net10.0\ExemploFundamentos.Common.dll
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\bin\Debug\net10.0\ExemploFundamentos.Common.pdb
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ExemploFundamentos.Common.dll
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\refint\ExemploFundamentos.Common.dll
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ExemploFundamentos.Common.pdb
+C:\Users\gusta\Documents\estudos\csharp\aula5\ExemploFundamentos.Common\obj\Debug\net10.0\ref\ExemploFundamentos.Common.dll

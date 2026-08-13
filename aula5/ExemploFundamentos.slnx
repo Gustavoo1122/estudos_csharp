@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExemploFundamentos.App/ExemploFundamentos.App.csproj" />
+  <Project Path="ExemploFundamentos.Common/ExemploFundamentos.Common.csproj" />
+</Solution>
