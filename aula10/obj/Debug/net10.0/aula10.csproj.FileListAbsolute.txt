@@ -1,0 +1,15 @@
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\bin\Debug\net10.0\aula10.exe
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\bin\Debug\net10.0\aula10.deps.json
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\bin\Debug\net10.0\aula10.runtimeconfig.json
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\bin\Debug\net10.0\aula10.dll
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\bin\Debug\net10.0\aula10.pdb
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.AssemblyInfo.cs
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.sourcelink.json
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.dll
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\refint\aula10.dll
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.pdb
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\aula10.genruntimeconfig.cache
+C:\Users\gusta\Documents\estudos\estudos_csharp\aula10\obj\Debug\net10.0\ref\aula10.dll

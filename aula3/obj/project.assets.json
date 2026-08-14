@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula3\\aula3.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula3\\aula3.csproj",
       "projectName": "aula3",
-      "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula3\\aula3.csproj",
+      "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula3\\aula3.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula3\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

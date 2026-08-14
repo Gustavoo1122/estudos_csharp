@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\projeto_estacionamento\\projeto_estacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\projeto_estacionamento\\projeto_estacionamento.csproj",
       "projectName": "projeto_estacionamento",
-      "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\projeto_estacionamento\\projeto_estacionamento.csproj",
+      "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\projeto_estacionamento\\projeto_estacionamento.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\projeto_estacionamento\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\projeto_estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

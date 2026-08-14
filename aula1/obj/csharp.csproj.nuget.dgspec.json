@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula1\\csharp.csproj": {}
+    "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula1\\csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula1\\csharp.csproj": {
+    "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula1\\csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula1\\csharp.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula1\\csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula1\\csharp.csproj",
+        "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula1\\csharp.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\csharp\\aula1\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
