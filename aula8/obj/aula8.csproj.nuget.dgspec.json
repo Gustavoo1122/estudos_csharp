@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj": {}
+    "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj": {
+    "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj",
         "projectName": "aula8",
-        "projectPath": "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj",
+        "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\aula8.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

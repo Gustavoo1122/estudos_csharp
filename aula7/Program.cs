@@ -11,3 +11,9 @@ cursoIngles.Alunos = new List<Pessoa>();
 cursoIngles.AdicionarAluno(p1);
 cursoIngles.AdicionarAluno(p2);
 cursoIngles.ListarAlunos();
+
+Pessoa p3 = new Pessoa("Testando", "Teste");
+
+(string nome, string sobrenome) = p3;
+
+Console.WriteLine($"{nome} {sobrenome}"); // Desestruturando objetos 
