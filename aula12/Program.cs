@@ -24,6 +24,6 @@ List<VendaEntrada> vendasEntrada = JsonConvert.DeserializeObject<List<VendaEntra
 
 foreach(VendaEntrada venda in vendasEntrada)
 {
-    Console.WriteLine($"Id: {venda.Id} Produto: {venda.Produto} Data venda: {venda.DataVenda} Valor: {venda.Valor}");
+    Console.WriteLine($"Id: {venda.Id} Produto: {venda.Produto} Data venda: {venda.DataVenda} Valor: {venda.Valor} Desconto: {(venda.Desconto is null ? "Sem desconto" : venda.Desconto + "%")}");
 }
 

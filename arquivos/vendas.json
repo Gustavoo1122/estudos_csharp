@@ -3,18 +3,21 @@
     "Id": 1,
     "Nome_Produto": "Monitor",
     "Valor": 395.00,
-    "DataVenda": "2026-08-17T15:18:13.2117848-03:00"
+    "DataVenda": "2026-08-17T15:18:13.2117848-03:00",
+    "Desconto": null
   },
   {
     "Id": 2,
     "Nome_Produto": "Teclado",
     "Valor": 201.90,
-    "DataVenda": "2026-08-17T15:18:13.2117848-03:00"
+    "DataVenda": "2026-08-17T15:18:13.2117848-03:00",
+    "Desconto": null
   },
   {
     "Id": 3,
     "Nome_Produto": "Mouse",
     "Valor": 150.00,
-    "DataVenda": "2026-08-17T15:18:13.2117848-03:00"
+    "DataVenda": "2026-08-17T15:18:13.2117848-03:00",
+    "Desconto": 10
   }
 ]

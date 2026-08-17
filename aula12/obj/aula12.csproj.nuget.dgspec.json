@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj": {}
+    "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj": {
+    "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj",
+        "projectUniqueName": "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj",
         "projectName": "aula12",
-        "projectPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj",
+        "projectPath": "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\aula12.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\obj\\",
+        "outputPath": "c:\\Users\\gusta\\Documents\\estudos\\estudos_csharp\\aula12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

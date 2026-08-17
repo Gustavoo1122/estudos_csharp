@@ -28,6 +28,6 @@ else
 int numero = 9;
 bool isPar = false;
 
-isPar = numero % 2 == 0;
+isPar = numero.IsPar(); // Usando o método de extensão criado na classe IntExtensions
 
 Console.WriteLine($"O número {numero} é: " + (isPar ? "PAR" : "ÍMPAR"));
