@@ -1,0 +1,15 @@
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\bin\Debug\net10.0\projeto_smartphone.exe
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\bin\Debug\net10.0\projeto_smartphone.deps.json
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\bin\Debug\net10.0\projeto_smartphone.runtimeconfig.json
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\bin\Debug\net10.0\projeto_smartphone.dll
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\bin\Debug\net10.0\projeto_smartphone.pdb
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.AssemblyInfo.cs
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.sourcelink.json
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.dll
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\refint\projeto_smartphone.dll
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.pdb
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\projeto_smartphone.genruntimeconfig.cache
+C:\Users\gusta\Documents\estudos\estudos_csharp\projeto_smartphone\obj\Debug\net10.0\ref\projeto_smartphone.dll
