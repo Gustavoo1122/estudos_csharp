@@ -1,0 +1,92 @@
+﻿[
+  {
+    "Id": 1,
+    "Nome": "Mountain Bike Socks, M",
+    "Cor": "Branco",
+    "Preco": 9.50,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 2,
+    "Nome": "Mountain Bike Socks, L",
+    "Cor": "Branco",
+    "Preco": 9.50,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 3,
+    "Nome": "AWC Logo Cap",
+    "Cor": "Colorido",
+    "Preco": 8.99,
+    "Tamanho": "",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 4,
+    "Nome": "Long-Sleeve Logo Jersey, S",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "P",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 5,
+    "Nome": "Long-Sleeve Logo Jersey, M",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 6,
+    "Nome": "Long-Sleeve Logo Jersey, L",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 7,
+    "Nome": "Long-Sleeve Logo Jersey, XL",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "GG",
+    "Genero": "U",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 8,
+    "Nome": "Mens Sports Shorts, S",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "P",
+    "Genero": "M",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 9,
+    "Nome": "Mens Sports Shorts, M",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "M",
+    "Genero": "M",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  },
+  {
+    "Id": 10,
+    "Nome": "Mens Sports Shorts, L",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "G",
+    "Genero": "M",
+    "DataCadastro": "2026-08-20 12:08:28.4133333"
+  }
+]
